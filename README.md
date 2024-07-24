@@ -12,6 +12,6 @@
 
 ## Hecho por:
 
-###Ana García
+## Devin Polanco
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
